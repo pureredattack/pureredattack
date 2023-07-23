@@ -8,7 +8,7 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<p><em>Computer Science Student <img src="https://media.tenor.com/P5DB2iGAecsAAAAj/peach-cat.gif" width="50">
+<p><em>Computer Science Student
 </em></p>
 <p><em>Aspiring Programmer trying to make some stuff <img src = "https://thumbs.gfycat.com/MerryAgedArcticduck-size_restricted.gif" width = "60"</em></p>
 
