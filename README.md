@@ -10,7 +10,7 @@
 
 <p><em>Computer Science Student
 </em></p>
-<p><em>Aspiring Programmer trying to make some stuff <img src = "https://thumbs.gfycat.com/MerryAgedArcticduck-size_restricted.gif" width = "60"</em></p>
+<p><em>Aspiring Programmer trying to make some stuff</p>
 
 ## Using:
 
